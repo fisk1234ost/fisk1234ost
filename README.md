@@ -1,2 +1,2 @@
-### Hello
-## My name is Dani Falk Jensen
+### Hej
+## Mit navn er **Dani Falk Jensen**
